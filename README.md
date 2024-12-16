@@ -26,7 +26,7 @@ pip install chromadb-client
 ### **Law download**
 
 Please locate provided `/data/database` folder in `/data/database`.
-You can download it in `https://drive.google.com/file/d/1TcXfcGUlww9w6quWaSon3RYxqt_Q1Od9/view?usp=sharing`.
+You can download it in [here](https://drive.google.com/file/d/1TcXfcGUlww9w6quWaSon3RYxqt_Q1Od9/view?usp=sharing).
 
 ### **Setting SEED value**
 
